@@ -4,5 +4,13 @@
     <title><![CDATA[start]]></title>
     <url>%2F2019%2F04%2F22%2Fstart%2F</url>
     <content type="text"></content>
+      <categories>
+        <category>Hello</category>
+        <category>World</category>
+      </categories>
+      <tags>
+        <tag>Hello</tag>
+        <tag>World</tag>
+      </tags>
   </entry>
 </search>
