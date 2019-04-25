@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://whatsnote.github.io/"/>
-  <updated>2019-04-25T02:37:23.215Z</updated>
+  <updated>2019-04-25T02:50:32.148Z</updated>
   <id>https://whatsnote.github.io/</id>
   
   <author>
@@ -18,10 +18,32 @@
   
   <entry>
     <title>start</title>
-    <link href="https://whatsnote.github.io/2019/04/22/start/"/>
-    <id>https://whatsnote.github.io/2019/04/22/start/</id>
+    <link href="https://whatsnote.github.io/asdfasdfasdfasd/"/>
+    <id>https://whatsnote.github.io/asdfasdfasdfasd/</id>
     <published>2019-04-22T05:21:12.000Z</published>
-    <updated>2019-04-25T02:37:23.215Z</updated>
+    <updated>2019-04-25T02:50:32.148Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="Hello" scheme="https://whatsnote.github.io/categories/Hello/"/>
+    
+      <category term="World" scheme="https://whatsnote.github.io/categories/Hello/World/"/>
+    
+    
+      <category term="Hello" scheme="https://whatsnote.github.io/tags/Hello/"/>
+    
+      <category term="World" scheme="https://whatsnote.github.io/tags/World/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>start</title>
+    <link href="https://whatsnote.github.io/25195/"/>
+    <id>https://whatsnote.github.io/25195/</id>
+    <published>2019-04-22T05:21:12.000Z</published>
+    <updated>2019-04-25T02:53:35.963Z</updated>
     
     <summary type="html">
     
