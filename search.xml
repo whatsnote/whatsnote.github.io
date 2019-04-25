@@ -1,29 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[start]]></title>
-    <url>%2Fasdfasdfasdfasd%2F</url>
-    <content type="text"></content>
-      <categories>
-        <category>Hello</category>
-        <category>World</category>
-      </categories>
-      <tags>
-        <tag>Hello</tag>
-        <tag>World</tag>
-      </tags>
+    <title><![CDATA[你好]]></title>
+    <url>%2Farticles%2F47ff46b0-671f-11e9-89c1-99bf4f7f4bd8%2F</url>
+    <content type="text"><![CDATA[]]></content>
   </entry>
   <entry>
     <title><![CDATA[start]]></title>
-    <url>%2F25195%2F</url>
-    <content type="text"></content>
-      <categories>
-        <category>Hello</category>
-        <category>World</category>
-      </categories>
-      <tags>
-        <tag>Hello</tag>
-        <tag>World</tag>
-      </tags>
+    <url>%2Farticles%2Fe18cabd0-6709-11e9-b172-3fdccb964e71%2F</url>
+    <content type="text"><![CDATA[asdfasdasfasdasdfasdfasdfasdfasdasdfasdfasdfasdfaasdfasdfasafd]]></content>
   </entry>
 </search>
